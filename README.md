@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alikemalsari
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning as a frontedn React, as a backend Spring
-- 📫 How to reach me a.kemalsari2@gmail.com
+- 📫 Contact=> a.kemalsari2@gmail.com
 
 <!---
 Alikemalsari/Alikemalsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
