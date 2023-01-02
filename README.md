@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alikemalsari
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning as a frontedn React, as a backend Spring
+- 🌱 I’m currently learning as a frontend React, as a backend Spring
 - 📫 Contact=> a.kemalsari2@gmail.com
 
 <!---
